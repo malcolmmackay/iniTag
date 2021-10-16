@@ -1,0 +1,13 @@
+version: 2.1
+
+# Define the jobs we want to run for this project
+fields:
+  - key: fieldone
+    type: text
+    default: default text
+
+  - key: passwordfield
+    type: password
+
+  - type: number
+    default: 1234
