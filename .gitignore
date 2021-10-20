@@ -22,5 +22,6 @@ hardware/HT07/Gerber/Releases/Parts List.ods
 LICENSE~
 *.md~
 *.md~
-README.md~
-.idea/vcs.xml
+*~
+.idea
+
